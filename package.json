@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/sewek/svelte-form/issues"
   },
-  "homepage": "https://github.com/sewek/svelte-form#readme"
+  "homepage": "https://github.com/sewek/svelte-form#readme",
+  "devDependencies": {
+    "rollup": "^2.70.1",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-svelte": "^7.1.0",
+    "svelte": "^3.46.4"
+  }
 }
